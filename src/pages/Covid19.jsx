@@ -2,7 +2,9 @@ import React from 'react'
 
 const Covid19 = () => {
   return (
-    <div>Covid-19</div>
+    <>
+      <h1>Dani kontol</h1>
+    </>
   )
 }
 
